@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Jonathan</h1>
-<h3 align="center">A Data Engineer</h3>
+<h3 align="center">Data Engineer</h3>
 
 [![](https://visitcount.itsvg.in/api?id=jnthntena&label=Profile%20Views&color=2&icon=4&pretty=false)](https://visitcount.itsvg.in)
 
