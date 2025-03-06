@@ -23,7 +23,7 @@
 ### ✍️ Random Dev Quote
 ![Jokes](https://readme-jokes.vercel.app/api?theme=dark)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jnthntena&repo=solana-redirector-extension)](https://github.com/jnthntena/stockx-api-auth)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jnthntena&repo=stockx-api-auth)](https://github.com/jnthntena/stockx-api-auth)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
