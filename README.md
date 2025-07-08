@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, my name is Jonathan</h1>
 <h3 align="center">Software Engineer</h3>
 
+<!---
 [![](https://visitcount.itsvg.in/api?id=jnthntena&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+-->
 
 # 💻 Tech Stack:
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
